@@ -47,8 +47,8 @@
       ],
       "belongsTo": [
         {
-          "lookupValue": null,
-          "lookupValueField": null,
+          "lookupValue": "Name",
+          "lookupValueField": "name",
           "relationName": "Forest",
           "belongsTo": [],
           "hidden": false,
@@ -67,7 +67,7 @@
             }
           ],
           "index": 1,
-          "type": "default",
+          "type": "standard",
           "caption": "For",
           "name": "forest",
           "relatedTo": "i-i-s-eshhe-primer-forest",

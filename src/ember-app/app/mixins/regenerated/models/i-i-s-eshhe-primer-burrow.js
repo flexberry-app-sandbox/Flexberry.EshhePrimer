@@ -38,6 +38,6 @@ export let defineProjections = function (modelClass) {
     forest: belongsTo('i-i-s-eshhe-primer-forest', 'For', {
       name: attr('Nam', { index: 2 }),
       coordinates: attr('Coord', { index: 3 })
-    }, { index: 1 })
+    }, { index: 1, displayMemberPath: 'name' })
   });
 };

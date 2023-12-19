@@ -33,6 +33,7 @@ namespace IIS.Eshhe_primer
             "Forest as \'For\'",
             "Forest.Name as \'Nam\'",
             "Forest.Coordinates as \'Coord\'"})]
+    [MasterViewDefineAttribute("BurrowE", "Forest", ICSSoft.STORMNET.LookupTypeEnum.Standard, "", "Name")]
     public class Burrow : ICSSoft.STORMNET.DataObject
     {
         

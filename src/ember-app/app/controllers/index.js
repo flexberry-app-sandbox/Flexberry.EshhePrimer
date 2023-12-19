@@ -22,19 +22,19 @@ export default Controller.extend({
             link: 'i-i-s-eshhe-primer-forest-l',
             caption: i18n.t('forms.application.sitemap.eshhe-primer.i-i-s-eshhe-primer-forest-l.caption'),
             title: i18n.t('forms.application.sitemap.eshhe-primer.i-i-s-eshhe-primer-forest-l.title'),
-            icon: 'tags',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-eshhe-primer-animal-l',
             caption: i18n.t('forms.application.sitemap.eshhe-primer.i-i-s-eshhe-primer-animal-l.caption'),
             title: i18n.t('forms.application.sitemap.eshhe-primer.i-i-s-eshhe-primer-animal-l.title'),
-            icon: 'chart line',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-eshhe-primer-country-l',
             caption: i18n.t('forms.application.sitemap.eshhe-primer.i-i-s-eshhe-primer-country-l.caption'),
             title: i18n.t('forms.application.sitemap.eshhe-primer.i-i-s-eshhe-primer-country-l.title'),
-            icon: 'calendar',
+            icon: 'list',
             children: null
           }]
         }

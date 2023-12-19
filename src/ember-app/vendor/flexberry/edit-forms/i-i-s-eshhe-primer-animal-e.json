@@ -2,7 +2,7 @@
   "propertyLookup": [
     {
       "master": "forest",
-      "displayAttributeName": null,
+      "displayAttributeName": "name",
       "required": false,
       "relationName": "Burrow.Forest",
       "projection": "ForestL",
