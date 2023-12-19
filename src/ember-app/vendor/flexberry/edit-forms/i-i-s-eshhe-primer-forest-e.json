@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Forest",
+  "name": "IISEshhe_primerForestE",
+  "className": "ForestE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-eshhe-primer-forest",
+      "modelProjection": "ForestE"
+    }
+  ]
+}

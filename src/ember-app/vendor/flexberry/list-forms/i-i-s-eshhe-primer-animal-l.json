@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-eshhe-primer-animal-e",
+  "editForm": "i-i-s-eshhe-primer-animal-e",
+  "external": false,
+  "caption": "Animal",
+  "name": "IISEshhe_primerAnimalL",
+  "className": "AnimalL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-eshhe-primer-animal",
+      "modelProjection": "AnimalL"
+    }
+  ]
+}

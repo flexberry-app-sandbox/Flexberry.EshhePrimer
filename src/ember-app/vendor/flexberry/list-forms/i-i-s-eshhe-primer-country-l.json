@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-eshhe-primer-country-e",
+  "editForm": "i-i-s-eshhe-primer-country-e",
+  "external": false,
+  "caption": "Country",
+  "name": "IISEshhe_primerCountryL",
+  "className": "CountryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-eshhe-primer-country",
+      "modelProjection": "CountryL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Country",
+  "name": "IISEshhe_primerCountryE",
+  "className": "CountryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-eshhe-primer-country",
+      "modelProjection": "CountryE"
+    }
+  ]
+}

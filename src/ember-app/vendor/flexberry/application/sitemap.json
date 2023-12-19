@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Eshhe_primer",
+  "applicationTitle": "Eshhe_primer",
+  "items": [
+    {
+      "link": null,
+      "menuName": "eshhe-primer",
+      "caption": "Eshhe_primer",
+      "title": "Eshhe_primer",
+      "children": [
+        {
+          "link": "i-i-s-eshhe-primer-forest-l",
+          "menuName": null,
+          "caption": "Forest",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-eshhe-primer-animal-l",
+          "menuName": null,
+          "caption": "Animal",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-eshhe-primer-country-l",
+          "menuName": null,
+          "caption": "Country",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

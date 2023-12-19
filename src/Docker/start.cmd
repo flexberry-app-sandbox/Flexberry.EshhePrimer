@@ -1,0 +1,1 @@
+docker-compose -p eshhe_primer up -d
